@@ -11,13 +11,13 @@ To use any of the indicators from this collection:
 3. Click "Add to Chart" to apply the indicator.
 4. Optionally, save the script as a custom indicator.
 
-##Indicators List
+## Indicators List
 
 Below is a list of the indicators included in this collection:
 
 - Engulfing candle using prior two candles
 
 
-##License
+## License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
