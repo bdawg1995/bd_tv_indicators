@@ -2,7 +2,7 @@
 
 This repository contains a collection of my custom TradingView indicators written in Pine Script. These indicators are designed to help with technical analysis and trading strategies, offering unique insights and visualizations tailored to my trading approach.
 
-## Installation
+## Usage
 
 To use any of the indicators from this collection:
 
